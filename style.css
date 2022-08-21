@@ -1,0 +1,56 @@
+body {
+  padding: 20px;
+}
+.banner1 {
+  background-color: gray;
+  height: 400px;
+  font-size: 20px;
+  padding: 50px;
+  margin-bottom: 20px;
+}
+.banner {
+  background-color: gray;
+  height: 400px;
+  font-size: 20px;
+  padding: 50px;
+}
+
+.header {
+  display: flex;
+  height: 90px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  background-color: grey;
+  margin-bottom: 20px;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+}
+.menu li {
+  margin-right: 10px;
+  font-size: 18px;
+  color: white;
+}
+
+.logo {
+  color: white;
+}
+
+main {
+  background-color: #8e918f;
+}
+.block {
+  background-color: #bbbfbd;
+  width: 500px;
+  height: 300px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.blocks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
